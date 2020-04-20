@@ -18,4 +18,4 @@ def speak_to_grandma(phrase)
   end
 end
 
-puts speak_to_grandma("LOVE ME")
+speak_to_grandma("LOVE ME")
